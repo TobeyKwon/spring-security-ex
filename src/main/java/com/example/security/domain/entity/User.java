@@ -1,4 +1,4 @@
-package com.example.security.domain;
+package com.example.security.domain.entity;
 
 import lombok.Getter;
 import lombok.Setter;
