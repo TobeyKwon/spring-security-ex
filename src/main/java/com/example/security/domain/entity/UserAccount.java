@@ -8,7 +8,7 @@ import javax.persistence.*;
 
 @Table(name = "Users")
 @Entity @Getter @Setter @ToString
-public class User {
+public class UserAccount {
 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
