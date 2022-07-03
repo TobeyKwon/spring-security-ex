@@ -15,3 +15,8 @@ spring:
     database: mysql
   messages:
     basename: messages,errors
+logging:
+  level:
+    org.hiberate:
+      type: trace
+
